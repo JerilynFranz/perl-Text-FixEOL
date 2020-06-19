@@ -5,6 +5,7 @@ my $build = Module::Build->new
         dist_abstract  => 'Canonicalizes mixed convention EOL/EOF',
         license        => 'mit',
         requires => {
+                'perl'             => '5.006',
                 'warnings'         => 0,
                 'Carp'             => 0,
                 },

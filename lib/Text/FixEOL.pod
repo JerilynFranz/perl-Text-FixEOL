@@ -335,7 +335,7 @@ mode rather than the mnemomic used for configuration.
 
 =head1 VERSION
 
-1.07 released 2020.06.19
+1.08 released 2020.06.19
 
 =head1 CHANGES
 
@@ -372,6 +372,8 @@ mode rather than the mnemomic used for configuration.
                    Minor tweaks to build process. Added meta_merge info
                    for GitHub. Set minimum Perl version to 5.006 and
                    added warnings.
+
+ 1.08 2020.06.19 - Fixed Module::Build perl requires. Removed unused 'DEBUG' method.
 
 =head1 AUTHOR
 

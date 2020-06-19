@@ -30,3 +30,5 @@ Revision history for Perl extension Text::FixEOL.
                   Minor tweaks to build process. Added meta_merge info
                   for GitHub. Set minimum Perl version to 5.006 and
                   added warnings pragma.
+
+1.08 2020.06.19 - Fixed Module::Build perl requires. Removed unused 'DEBUG' method.
