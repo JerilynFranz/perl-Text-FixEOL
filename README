@@ -1,0 +1,21 @@
+Text-FixEOL 
+========================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+Alternatively, if you have Module::Build installed, you can build
+by typing the following (this method does not depend on having
+'make' installed):
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
