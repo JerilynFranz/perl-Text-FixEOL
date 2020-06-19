@@ -10,6 +10,7 @@ my $build = Module::Build->new
                 },
         test_requires => {
                 'warnings'          => 0,
+                'perl'              => '5.006',
                 'Carp'              => 0,
                 'Test::More'        => 0,
                 'Test::NoWarnings'  => '1.04',

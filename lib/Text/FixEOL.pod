@@ -370,7 +370,8 @@ mode rather than the mnemomic used for configuration.
 
  1.07 2020.06.19 - Maintainer update. Relicensed under the MIT License.
                    Minor tweaks to build process. Added meta_merge info
-                   for GitHub. No functional changes.
+                   for GitHub. Set minimum Perl version to 5.006 and
+                   added warnings.
 
 =head1 AUTHOR
 
